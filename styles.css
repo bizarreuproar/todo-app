@@ -1,0 +1,38 @@
+.container {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+  }
+h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: blueviolet;
+	
+}
+#input {
+	background-color: white;
+	width: 250px;
+	color: blueviolet;
+	margin-left: 360px; 
+}
+body {
+	font-family: Arial, sans-serif;
+	background-color:rgba(10, 10, 10);
+	
+}
+#todos {
+	color: blueviolet;
+	margin-top: 175px;
+	margin-right: 250px;
+}
+#btncheck{
+	margin-left: 27px;
+}
+#allClear{
+	background-color: white;
+	color: blueviolet;
+}
